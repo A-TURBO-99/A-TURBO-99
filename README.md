@@ -12,10 +12,11 @@
 
 
 ==============
-- 🔭 I’m currently working at [KnowBe4](https://knowbe4.com) as an SRE
-- 💬 Ask me about **Go, Git and Python**
-- 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
-- ⚡ Fun fact: Big Fan of the :zap: emoji
+- My name is Amr Mahmoud Mokbl With , And my nickname is "A-TURBO-99"
+- I am passionate about studying cybersecurity "The Offensive Side"
+- I am currently studying at Future Academy. I study computer science 
+- 🔭 I’m currently working as a bughunter and solve the CTF labs
+- 
 
 -------
 
