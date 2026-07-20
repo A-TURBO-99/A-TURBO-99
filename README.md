@@ -12,15 +12,14 @@
 
 
 -------
-- My name is Amr Mahmoud Mokbl With , And my nickname is "A-TURBO-99"
+**- My name is Amr Mahmoud Mokbl  and my nickname is "A-TURBO-99"
 - I am passionate about studying cybersecurity "The Offensive Side"
 - I am currently studying at Future Academy. I study computer science 
-- 🔭 I’m currently working as a bughunter and solve the CTF labs
-- 
+- 🔭 I’m currently working as a bughunter and solve the CTF labs**
 
 -------
 
-**📝 Latest Blog Posts**
+**📝 My Skills**
 
 <!-- BLOG-POST-LIST:START -->
 - [Yearly Review - 2025](https://blog.athulcyriac.in/blog/2025/)
