@@ -25,7 +25,9 @@
 
   <!-- typed text, revealed via clip-path to create the "typing" effect -->
   <g clip-path="url(#typeReveal)">
-    <text x="30" y="92" font-size="27" fill="#39ff9c">Welcome to A_TURBO's GitHub </text> <p>😎</p>
+    <text x="30" y="92" font-size="27" fill="#39ff9c">Welcome to A_TURBO's GitHub 
+    Iam a : Bug hunter  || junior Penetration Tester || Ethical Hacker || Python Programmer 
+    </text> 
   </g>
 
   <!-- blinking caret that moves with the typing, then blinks in place -->
