@@ -1,0 +1,43 @@
+<svg viewBox="0 0 700 140" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace">
+  <defs>
+    <clipPath id="typeReveal">
+      <rect x="0" y="0" height="140" width="0">
+        <animate attributeName="width"
+                 values="0;460;460;0;0"
+                 keyTimes="0;0.45;0.85;0.9;1"
+                 dur="6s"
+                 repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- window background -->
+  <rect x="0" y="0" width="700" height="140" rx="14" fill="#0d1117"/>
+
+  <!-- title bar -->
+  <path d="M0,14 A14,14 0 0 1 14,0 H686 A14,14 0 0 1 700,14 V34 H0 Z" fill="#161b22"/>
+  <circle cx="26" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="70" cy="17" r="6" fill="#27c93f"/>
+
+  <!-- terminal border -->
+  <rect x="1" y="1" width="698" height="138" rx="13" fill="none" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- typed text, revealed via clip-path to create the "typing" effect -->
+  <g clip-path="url(#typeReveal)">
+    <text x="30" y="92" font-size="27" fill="#39ff9c">Welcome to A_TURBO's GitHub </text>
+  </g>
+
+  <!-- blinking caret that moves with the typing, then blinks in place -->
+  <rect y="66" width="14" height="32" fill="#39ff9c">
+    <animate attributeName="x"
+             values="30;490;490;30;30"
+             keyTimes="0;0.45;0.85;0.9;1"
+             dur="6s"
+             repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+             values="1;1;0;0;1"
+             dur="1s"
+             repeatCount="indefinite"/>
+  </rect>
+</svg>
