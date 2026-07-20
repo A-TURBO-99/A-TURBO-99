@@ -8,15 +8,15 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
 
 -------
 
-<b>- My name is Amr Mahmoud Mokbl  and my nickname is "A-TURBO-99"</b>
-<b>- I am passionate about studying cybersecurity "The Offensive Side"</b>
-<b>- I am currently studying at Future Academy. I study computer science </b>
-<b>- 🔭 I’m currently working as a bughunter and solve the CTF labs</b>
+- My name is Amr Mahmoud Mokbl  and my nickname is "A-TURBO-99"
+- I am passionate about studying cybersecurity "The Offensive Side"
+- I am currently studying at Future Academy. I study computer science
+- 🔭 I’m currently working as a bughunter and solve the CTF labs
 
 -------
 
