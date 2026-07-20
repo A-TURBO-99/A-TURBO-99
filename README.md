@@ -22,6 +22,20 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me.
 <div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
+- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
+- 🌱 &nbsp; I’m currently learning Typescript; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+
+<br>
+
 
 </br>
 </br>
