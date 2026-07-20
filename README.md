@@ -11,7 +11,7 @@
 <div align="center">
 
 
-==============
+-------
 - My name is Amr Mahmoud Mokbl With , And my nickname is "A-TURBO-99"
 - I am passionate about studying cybersecurity "The Offensive Side"
 - I am currently studying at Future Academy. I study computer science 
