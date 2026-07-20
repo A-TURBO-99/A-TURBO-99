@@ -5,7 +5,7 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/A-TURBO-99/A-TURBO-99/blob/main/welcome-banner.svg" alt="Welcome!" width="380"/>
+<img src="https://github.com/A-TURBO-99/A-TURBO-99/blob/main/welcome-banner.svg" alt="Welcome!" width="500"/>
 
 </div>
 
