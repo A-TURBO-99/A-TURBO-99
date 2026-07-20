@@ -30,7 +30,7 @@
 
 -------
 ```txt
-No activity tracked
+- My Write-ups in medium <a src="https://medium.com/@A_TURBO_99"> Link</a>
 ```
 
 <!--END_SECTION:waka-->
