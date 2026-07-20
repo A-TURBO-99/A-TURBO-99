@@ -28,6 +28,8 @@
 - Linux 
 - Python Language
 - Bug hunting
+- HTML , CSS , Java Script
+- C++
 <!-- BLOG-POST-LIST:END -->
 
 -------
