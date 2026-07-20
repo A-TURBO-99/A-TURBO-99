@@ -20,16 +20,18 @@
 
 -------
 
-**📝 My Skills**
+**🛠️ My Skills**
 
 <!-- BLOG-POST-LIST:START -->
-- Web Pentesting
+- Web Application Penetration Testing
+- API Security
+- Linux 
 - Python Language
 - Bug hunting
 <!-- BLOG-POST-LIST:END -->
 
 -------
-**📝 My achievements**
+**🏆 My achievements**
 - I studied "Network+ self-study" , "Security+" , "EJPT v1"  , "CEH" , "API and Web Pentesting" , "OSCP self-Study" 
 - My Write-ups in medium <a href="https://medium.com/@A_TURBO_99">Link</a>
 - Hall of fame in Fatora web site <a href="https://fatora.io/en/bug-bounty-hall-of-fame/">Link</a>
