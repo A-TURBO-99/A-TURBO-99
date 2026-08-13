@@ -12,10 +12,10 @@
 
 
 ------
-- My name is Amr Mahmoud Mokbl  and my nickname is "A-TURBO-99"
-- I am passionate about studying cybersecurity "The Offensive Side"
+- My name is Amr Mahmoud Mokbl || nickname --> "A-TURBO-99"
+- Specialized in web application penetration testing and  Network 
 - I am currently studying at Future Academy. I study computer science
-- 🔭 I’m currently working as a bughunter and solve the CTF labs , Web application and Network Pentesting 
+- 🔭 I’m currently working as a bughunter and solve the CTF labs 
 
 -------
 
@@ -23,6 +23,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - Web Application Penetration Testing
+- Network Penetration Testing 
 - API Security
 - Linux 
 - Python Language
