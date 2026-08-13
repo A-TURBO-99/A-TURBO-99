@@ -35,7 +35,7 @@
 
 -------
 **🏆 My achievements**
-- I studied "Network+ self-study" , "Security+" , "EJPT v1"  , "CEH" , "API and Web Pentesting" , "EWAPT Self-Study","OSCP self-Study" 
+- I studied "Network+ self-study" , "Security+" , "EJPT v1"  , "CEH" , "API and Web Pentesting" , "EWAPT Self-Study"
 - My Write-ups in medium <a href="https://medium.com/@A_TURBO_99">Link</a>
 - Hall of fame in Fatora web site <a href="https://fatora.io/en/bug-bounty-hall-of-fame/">Link</a>
 
